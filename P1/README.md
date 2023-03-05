@@ -1,4 +1,4 @@
-### Project 1
+# Project 1
 
 Two projects were done, a scheduler and a threading project.
 

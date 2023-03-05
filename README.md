@@ -1,4 +1,3 @@
-### Repo for CSDS 338 Projects
+# Repo for CSDS 338 Projects
 
-# Ethan Kaji, tak112, CWRU
-
+### Ethan Kaji, tak112, CWRU
